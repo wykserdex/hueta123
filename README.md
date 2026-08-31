@@ -1,4 +1,4 @@
-# 🛰️ Yourosint v2 — OSINT & Threat Intel Graph Platform
+# ))))))))))) — OSINT & Threat Intel Graph Platform
 
 > **Modern, High-Performance OSINT & Intelligence Graph Platform for Telegram.**
 > Engineered with Clean Layered Architecture, PostgreSQL GIN Trigram Indexing, HMAC-SHA256 Blind Indexing, and Single-Query SQL CTE Network Graph Analysis.
